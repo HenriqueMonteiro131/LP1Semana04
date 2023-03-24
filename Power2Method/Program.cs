@@ -4,6 +4,9 @@ namespace Power2Method
 {
     class Program
     {
+        /// <summary>
+        /// Start
+        /// </summary>
         private static void PowersOf2Until5()
         {
             PowersOf2UntilN(5);
